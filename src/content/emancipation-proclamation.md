@@ -1,13 +1,13 @@
 ---
-title: "Great Gatsby"
+title: 'Great Gatsby'
 author: Another Author
 tags: []
 image: img/marvin-meyer-794521-unsplash.jpg
-date: "1922-12-12T10:00:00.000Z"
+date: '1922-12-12T10:00:00.000Z'
 draft: false
 ---
 
-In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
+a;sldkjf;asldkfj;slkfdj In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 
 “Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
 
